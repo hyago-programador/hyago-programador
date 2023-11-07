@@ -8,7 +8,7 @@ Olá! me chamo Hyago, tenho 31 anos, buscando transição de carreira para área
 quer me.conhecer um pouco mais ?
 
 
-e-mail: hyago.desenvolvedor@gmail.com
+e-mail: hyago.desenvolvedor@gmail.com <br>
 tel: (11)97765-5811
 <br>
 
